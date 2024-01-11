@@ -15,7 +15,7 @@
 <div align="left">
     <p><font color="blue">Enthusiastic Computer Science Student | Code Lover | Cricket Enthusiast</font></p>
     <div align="center">
-  <img src="https://github.com/karunesh-28/karunesh-28/blob/main/gif%20karu.gif" align="right" height="50%" width="30%">
+  <img src="https://github.com/karunesh-28/karunesh-28/blob/main/gif%20karu.gif" align="right" height="70%" width="30%">
 </div>
     <p><font color="blue">👨‍💻 I live in Mumbai, Bharat 🇮🇳</font></p>
     <p><font color="blue">🧑🏻‍🎓 Student Ambassador at Let's Upgrade</font></p>
