@@ -23,6 +23,12 @@
     <p><font color="blue">⚡ Passionate about Animation and AI</font></p>
 </div>
 
+
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 <h2>Get in Touch</h2>
 <p>
     <a href="https://www.instagram.com/karunesh_chikne_2812?igsh=NGJxYjF0NHdvY3ps" target="_blank">
@@ -35,27 +41,44 @@
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
     </a>
 </p>
-
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 <h2>Skills &amp; Languages</h2>
 <div align="left">
     <h4>IDEs:</h4>
     <p>
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
     </p>
+    <div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
     <h4>Languages:</h4>
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://skillicons.dev/icons?i=cpp,py&theme=dark" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="50" height="50"><div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
     <h4>Version Control:</h4>
     <p>
         <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-    </p>
+    </p> <div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
     <h4>No Code:</h4>
     <p>
         <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50" theme="dark"> 
         <img src="https://img.shields.io/badge/wix-0078d7.svg?style=for-the-badge&logo=&logoColor=black" width="50" height="50" theme="light">
     </p>
+        <div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 </div>
 
 <h2>GitHub Stats:</h2>
