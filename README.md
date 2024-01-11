@@ -2,11 +2,11 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile;I'm+Karunesh+chikne!" />
-</h1>
-<div align="left">
+    <div align="left">
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+</h1>
 
 <h3 align="left">
     <font color="red">About me:</font>
@@ -14,7 +14,9 @@
 
 <div align="left">
     <p><font color="blue">Enthusiastic Computer Science Student | Code Lover | Cricket Enthusiast</font></p>
-    <img align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" height="250" width="380"/>
+    <div align="center">
+  <img src="https://github.com/karunesh-28/karunesh-28/blob/main/gif%20karu.gif" align="right" height="50%" width="30%">
+</div>
     <p><font color="blue">👨‍💻 I live in Mumbai, Bharat 🇮🇳</font></p>
     <p><font color="blue">🧑🏻‍🎓 Student Ambassador at Let's Upgrade</font></p>
     <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
