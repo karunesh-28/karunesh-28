@@ -19,7 +19,7 @@
 </div>
     <p><font color="blue">👨‍💻 I live in Mumbai, Bharat 🇮🇳</font></p>
     <p><font color="blue">🧑🏻‍🎓 Student Ambassador at Let's Upgrade</font></p>
-    <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
+    <p><font color="blue">👨‍💻 Second-year B.Tech student at ITM Skills University</font></p>
     <p><font color="blue">🚀 Coding enthusiast exploring the world of programming</font></p>
     <p><font color="blue">🌱 Currently diving deep into Python</font></p>
     <p><font color="blue">⚡ Passionate about Animation and AI</font></p>
