@@ -1,106 +1,92 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=karunesh-28.karunesh-28" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile;I'm+Karunesh+chikne!" />
-    <div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+  Hi 👋, I'm Karunesh Chikne
 </h1>
+<h3 align="center">🚀 Backend Developer | 🌐 Full Stack Explorer | 🎨 UI/UX Enthusiast</h3>
 
-<h3 align="left">
-    <font color="red">About me:</font>
-</h3>
-
-<div align="left">
-    <p><font color="blue">Enthusiastic Computer Science Student | Code Lover | Cricket Enthusiast</font></p>
-    <div align="center">
-  <img src="https://github.com/karunesh-28/karunesh-28/blob/main/gif%20karu.gif" align="right" height="70%" width="30%">
-</div>
-    <p><font color="blue">👨‍💻 I live in Mumbai, Bharat 🇮🇳</font></p>
-    <p><font color="blue">🧑🏻‍🎓 Student Ambassador at Let's Upgrade</font></p>
-    <p><font color="blue">👨‍💻 Second-year B.Tech student at ITM Skills University</font></p>
-    <p><font color="blue">🚀 Coding enthusiast exploring the world of programming</font></p>
-    <p><font color="blue">🌱 Currently diving deep into Python</font></p>
-    <p><font color="blue">⚡ Passionate about Animation and AI</font></p>
-</div>
-
-
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<h2>Get in Touch</h2>
-<p>
-    <a href="https://www.instagram.com/karunesh_chikne_2812?igsh=NGJxYjF0NHdvY3ps" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
-    </a>
-    <a href="mailto:karuneshchikne28@gmail.com" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=black&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
-    </a>
-    <a href="https://www.linkedin.com/in/karunesh-chikne-4641a0286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
-    </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Building+robust+backends...;Exploring+cool+frontend+UX...;Deploying+real-time+apps..." />
 </p>
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-<h2>Skills &amp; Languages</h2>
-<div align="left">
-    <h4>IDEs:</h4>
-    <p>
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-    </p>
-    <div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-    <h4>Languages:</h4>
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=cpp,py&theme=dark" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="50" height="50"><div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-    <h4>Version Control:</h4>
-    <p>
-        <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-    </p> <div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-    <h4>No Code:</h4>
-    <p>
-        <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50" theme="dark"> 
-        <img src="https://img.shields.io/badge/wix-0078d7.svg?style=for-the-badge&logo=&logoColor=black" width="50" height="50" theme="light">
-    </p>
-        <div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-</div>
 
-<h2>GitHub Stats:</h2>
-<div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunesh-28&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
-    <p><img src="https://github-profile-trophy.vercel.app/?username=karunesh-28&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=karunesh-28&theme=aura&show_icons=true" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karunesh-28&theme=aura" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karunesh-28&theme=aura" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=karunesh-28&theme=aura" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karunesh-28&theme=aura&utcOffset=5.3" />
-</div>
+---
 
-<div align="left">
-    <h2>My Contributions</h2>
-    <br>
+## 👨‍💻 About Me
+- 🎓 B.Tech CS Student @ ITM Skills University
+- 🔭 Currently working on **automating data imports into PostgreSQL**
+- 🌱 Learning deeper backend architectures & performance optimization
+- 💬 Ask me about anything backend – APIs, DBs, or JWT!
+- ⚡ Fun fact: I'm also into animation & cricket!
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-    <br/><br/><br/>
-</div>
+---
 
-</body>
-</html>
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+
+### 🧠 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+### ⚙️ Dev Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 📈 Real-Time GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karunesh-28&theme=algolia" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karunesh-28&show_icons=true&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunesh-28&layout=compact&theme=algolia&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 🧾 **Excel → PostgreSQL Importer** | Node.js, PostgreSQL, xlsx | Automated large Excel data import (200K rows) into a PostgreSQL DB |
+| 🌦 **React Weather App** | React, API, CSS | Displays weather using OpenWeatherMap API |
+| 🔐 **JWT Auth System** | Express, MongoDB, JWT | Secure login/signup backend with token-based auth |
+
+---
+
+## 🎨 UI & UX Passion Projects
+
+| Tool | Use |
+|------|-----|
+| ✨ Figma | For planning modern, minimalistic interfaces |
+| 🧩 ShadCN UI | Used for building clean React UI |
+| 💬 Framer Motion | For animations & smooth transitions |
+| 📱 Responsive Design | Always mobile-first & accessible |
+
+---
+
+## 📫 Let's Connect!
+
+<a href="mailto:karuneshchikne28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/karunesh-chikne-4641a0286/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/karunesh_chikne_2812"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+> 💡 _“Code with purpose. Deploy with confidence. Learn something new every repo.”_
+
