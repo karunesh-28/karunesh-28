@@ -120,6 +120,6 @@
 
 ###
 
-<h2 align="left">“A single if statement once cost a company $500 million. Still think backend isn’t serious? 💥💻”</h2>
+<h2 align="left">“A single if statement once cost a company $500 million. Still think backend isn’t serious? 💥”</h2>
 
 ###
