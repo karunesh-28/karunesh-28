@@ -27,7 +27,9 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+
 <br clear="both">
+
 <h4 align="left">🚀 A driven full stack developer with a strong backend foundation<br>🌱 Currently exploring UI/UX, DevOps, and building scalable real-world apps<br>🛠️ I love crafting clean APIs, automating workflows, and optimizing systems<br>🎯 Always learning, building, and breaking things to get better<br>🧩 Fun Fact: I believe a great backend should feel invisible to the user—and unbreakable to the developer.</h4>
 
 ###
