@@ -17,9 +17,7 @@
   <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="24" alt="Gmail logo" />
   </a>
-  <a href="https://linktr.ee/YOUR_LINKTREE_ID" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=plastic" height="24" alt="Linktree logo" />
-  </a>
+ 
 </div>
 
 
